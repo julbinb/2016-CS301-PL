@@ -1,2 +1,5 @@
-# 2016-cs301-PL
-CS301 Programming Languages Theory course @ MMCS SFedU, 2016
+# CS301. Programming Languages Theory @ MMCS SFedU, 2016
+
+Курс CS301 Теория языков программирования, мехмат ЮФУ, 2016
+
+
